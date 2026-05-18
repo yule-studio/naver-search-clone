@@ -1,0 +1,13 @@
+{
+  "name": "naver-search-clone",
+  "private": true,
+  "version": "0.0.1",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "test": "echo \"no real tests yet \u2014 bootstrap scaffold\" && exit 0",
+    "dev": "echo \"run 'pnpm --filter ./apps/web dev'\""
+  },
+  "packageManager": "[email protected]"
+}
